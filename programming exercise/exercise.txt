@@ -1,0 +1,1 @@
+Here i use the python to complete the programming exercise i use the pandas to read the csv file to pandas dataframe and i use the merge function to merge the datafame on the first column and i concatenate the lines and then i dropped the first columns form the merged dataframe and the merged dataframe is written in new csv file for the result.

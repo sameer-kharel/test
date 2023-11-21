@@ -1,0 +1,11 @@
+1. How did you solve the problem
+= I solve this problem using the yolo v8 model it is the pretrained model in the IMagenet dataset and i use the YOLOv8m-cls and use it as the transfer learning for building the model.
+
+2. Why did you choose to solve the problem the way you did? 
+=  i choose the yolov8 cause it is easy to use and it can find the patterns in all the data and it is updating with time as the yolo v8 was released before 7 months and it can be used for all the computer vision such as Detection, segementation and classification.
+
+3. What challenges did you face?
+= The challanges i faced is using the ocr the text data that was given to me for building the model i can use the other cnn technique to use the both ocr and images to create the model.
+
+4. If you had more time, what would you do differently
+= i just looked the mail in the morning today and it was less time to use both the images and the ocr if i got the good time i will be creating the model using the oce data and the image data that was given to me.
